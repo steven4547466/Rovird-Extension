@@ -2,6 +2,7 @@
   "manifest_version": 2,
   "name": "Rovird",
   "version": "1.0",
+  "description": "Adds quick Rovird scanning directly into the Roblox library",
   "content_scripts": [
     {
       "matches": [
